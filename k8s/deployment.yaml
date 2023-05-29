@@ -25,10 +25,10 @@ spec:
         - name: Vless_UUID
           value: "5d7e9469-c8e5-4e6a-a8f5-442233dc7c6b"
         - name: Vless_Path
-          value: "/9fb5794e-535c-4282-8b75-e593e20e264f-vless"
+          value: "/5d7e9469-c8e5-4e6a-a8f5-442233dc7c6b-vless"
         - name: Vmess_UUID
           value: "5d7e9469-c8e5-4e6a-a8f5-442233dc7c6b"
         - name: Vmess_Path
-          value: "/9fb5794e-535c-4282-8b75-e593e20e264f-vmess"
+          value: "/5d7e9469-c8e5-4e6a-a8f5-442233dc7c6b-vmess"
         - name: Share_Path
           value: "/ererenk"
